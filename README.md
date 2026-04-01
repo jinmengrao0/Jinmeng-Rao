@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jinmeng Rao
 
-🧠 AI Researcher | Machine Learning & Deep Learning
+🧠 Research Engineer @ Google DeepMind
 🎓 Computer Science @ University of Oxford
 📍 United Kingdom
 
@@ -8,17 +8,17 @@
 
 ## 🧠 About Me
 
-I am an AI researcher with a strong foundation in machine learning, deep learning, and large-scale AI systems. My work focuses on designing intelligent systems that bridge cutting-edge research with real-world applications.
+I am a Research Engineer at Google DeepMind, working on advancing machine learning and artificial intelligence systems at scale.
 
-I am particularly interested in advancing:
+My work focuses on building intelligent systems that combine cutting-edge research with real-world applications.
+
+I am particularly interested in:
 
 * **Generative AI & Large Language Models (LLMs)**
 * **Multimodal AI (Vision + Language)**
-* **Representation Learning**
+* **Deep Learning & Representation Learning**
 * **Scalable Machine Learning Systems**
-* **Efficient & Adaptive AI architectures**
-
-I aim to build AI systems that are not only powerful but also practical, efficient, and impactful in real-world environments.
+* **Efficient AI architectures**
 
 ---
 
@@ -29,40 +29,34 @@ I aim to build AI systems that are not only powerful but also practical, efficie
 
 ---
 
-## 🔬 Research Focus
+## 💼 Experience
 
-My research and engineering work revolve around:
+### 🧠 Google DeepMind — Research Engineer
+
+*Present*
+
+* Working on advanced AI systems and large-scale machine learning
+* Contributing to research and development of next-generation models
+* Bridging research and real-world deployment
+
+---
+
+## 🔬 Research Focus
 
 ### 🧠 Core Areas
 
 * Large Language Models (LLMs)
+* Multimodal Learning
 * Deep Neural Networks
-* Multimodal Learning (Vision + Language)
 * Representation Learning
-* AI System Design
+* AI Systems
 
 ### 🚀 Advanced Topics
 
 * Efficient training & inference for large models
-* Transfer learning & generalization
-* Model optimization & scalability
+* Model scaling and optimization
+* Generalization & transfer learning
 * Real-world deployment of ML systems
-
----
-
-## 💼 Experience & Work
-
-### 🧠 AI Research & Engineering
-
-* Developed and experimented with deep learning models across multiple domains
-* Built and optimized machine learning pipelines for scalability and performance
-* Applied research ideas into practical implementations
-
-### 🔧 Engineering Contributions
-
-* Designed modular ML systems for experimentation
-* Implemented training pipelines and evaluation frameworks
-* Worked on bridging research prototypes with production-ready systems
 
 ---
 
@@ -71,49 +65,45 @@ My research and engineering work revolve around:
 🎓 **University of Oxford**
 Computer Science
 
-* Strong focus on machine learning and AI
-* Exposure to cutting-edge research and advanced algorithms
-
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### 💻 Languages
 
 * Python
 * C++
 
-### 🤖 Machine Learning & AI
+### 🤖 AI / ML
 
+* Machine Learning
 * Deep Learning
-* Natural Language Processing (NLP)
+* NLP
 * Computer Vision
-* Representation Learning
 
-### ⚙️ Frameworks & Tools
+### ⚙️ Frameworks
 
 * PyTorch
 * TensorFlow
-* NumPy / SciPy
 
-### 🧩 Concepts & Systems
+### 🧩 Systems
 
 * ML system design
-* Model optimization
 * Data pipelines
-* Experiment tracking
+* Model optimization
+* Experimentation frameworks
 
 ---
 
-## 📂 Project Areas
+## 📂 Project Focus
 
-This GitHub will include work such as:
+This GitHub will feature:
 
-* 🤖 LLM-based applications and experiments
-* 🧠 Deep learning model implementations
-* 📊 Machine learning pipelines
-* 🧩 Multimodal AI systems
-* 📄 Research-oriented implementations (papers → code)
+* 🤖 LLM-based systems and experiments
+* 🧠 Deep learning research implementations
+* 📊 ML pipelines and scalable systems
+* 🧩 Multimodal AI projects
+* 📄 Paper reproductions and research code
 
 ---
 
@@ -125,16 +115,15 @@ This GitHub will include work such as:
 
 ## 📈 Vision
 
-I am passionate about pushing the boundaries of AI by combining:
+I aim to contribute to building next-generation AI systems that are:
 
-* rigorous research
-* strong engineering
-* real-world impact
-
-My long-term goal is to contribute to building next-generation intelligent systems that can reason, adapt, and scale effectively.
+* scalable
+* efficient
+* intelligent
+* impactful
 
 ---
 
 ## ⚡ Note
 
-This profile is actively maintained and will showcase my latest work in AI research, machine learning systems, and experimental projects.
+This profile is actively maintained and reflects my current work in AI research and engineering at Google DeepMind.
